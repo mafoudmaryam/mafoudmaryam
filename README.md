@@ -9,11 +9,27 @@ Software Engineering Student | Python & Web Development
 🚀 Building projects and preparing for my Master's degree
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Languages
+🐍 Python
+🌐 HTML
+🎨 CSS
+🗄️ SQL
 
-🛠️ Tech Stack
+### Frameworks & Tools
+🚀 Django
+🔧 Git
+🐙 GitHub
+💻 VS Code
+## 🛠️ Tech Stack
 
-Python     Django     HTML/CSS
-SQL        Git        GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode" />
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
