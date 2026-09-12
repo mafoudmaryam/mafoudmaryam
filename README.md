@@ -9,17 +9,6 @@ Software Engineering Student | Python & Web Development
 🚀 Building projects and preparing for my Master's degree
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-### Languages
-🐍 Python
-🌐 HTML
-🎨 CSS
-🗄️ SQL
-
-### Frameworks & Tools
-🚀 Django
-🔧 Git
-🐙 GitHub
-💻 VS Code
 ## 🛠️ Tech Stack
 
 <p align="left">
