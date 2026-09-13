@@ -32,14 +32,6 @@ I'm currently building a data analysis project and a business-focused web app �
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mafoudmaryam&show_icons=true&theme=default&hide_title=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafoudmaryam&layout=compact&theme=default" height="165" />
-</p>
-
----
 
 ## 🎓 Education
 **Sichuan University** — B.Sc. Software Engineering
