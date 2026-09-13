@@ -1,50 +1,57 @@
-MAFOUD MARYAM
-Software Engineering Student | Python & Web Development
+# Hi, I'm Maryam 👋
 
-👋 Hi, I'm Maryam!
+Software Engineering student at Sichuan University | Python & Web Development
 
-🎓 Software Engineering student at Sichuan University
-💻 Interested in software development, web applications and technology
-🌱 Currently improving my skills in Python, Django, SQL and Git
+🎓 Graduating in 2027 with a B.Sc. in Software Engineering
+💻 Interested in software development, web applications, and using data to solve business problems
+🌱 Currently improving my skills in Python, Django, SQL, and data analysis
 🚀 Building projects and preparing for my Master's degree
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
 ## 🛠️ Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 [Invoice Tracker](https://github.com/mafoudmaryam/invoice-tracker)
+A Django web app for creating and managing client invoices — add clients, build line-item invoices with automatic tax/discount/deposit calculations, capture e-signatures, attach files, and export everything as a clean PDF.
+`Python` `Django` `SQLite`
+
+### 🔧 More projects in progress
+I'm currently building a data analysis project and a business-focused web app — check back soon!
+
+---
+
+## 📈 GitHub Stats
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mafoudmaryam&show_icons=true&theme=default&hide_title=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafoudmaryam&layout=compact&theme=default" height="165" />
 </p>
 
-### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🎓 Education
+**Sichuan University** — B.Sc. Software Engineering
 
-🚀 Featured Projects
+## 📜 Certifications
+- Internship Certificate — *[add the name of the company/program here]*
+- Python (freeCodeCamp) — *in progress*
 
-📊 Invoice Tracker
-A Django web application for managing invoices...
+---
 
-🤖 Project #2
-...
+## 📫 Let's Connect
 
-🌐 Project #3
-...
+## 📫 Let's Connect
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎓 Education
-Sichuan University
-B.Sc. Software Engineering
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📜 Certifications
-...
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📫 Contact
-Email | LinkedIn | Portfolio
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mafoudmaryam1@gmail.com)
