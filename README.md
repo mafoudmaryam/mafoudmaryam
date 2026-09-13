@@ -37,13 +37,10 @@ I'm currently building a data analysis project and a business-focused web app �
 **Sichuan University** — B.Sc. Software Engineering
 
 ## 📜 Certifications
-- Internship Certificate — *[add the name of the company/program here]*
+- Internship Certificate — *[Big Data Innovation and Entrepreneurship]*
 - Python (freeCodeCamp) — *in progress*
 
 ---
 
-## 📫 Let's Connect
-
-## 📫 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mafoudmaryam1@gmail.com)
