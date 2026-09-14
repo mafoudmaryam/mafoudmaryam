@@ -38,7 +38,6 @@ I'm currently building a data analysis project and a business-focused web app �
 
 ## 📜 Certifications
 - Internship Certificate — *[Big Data Innovation and Entrepreneurship]*
-- Python (freeCodeCamp) — *in progress*
 
 ---
 
