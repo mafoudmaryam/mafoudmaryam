@@ -20,8 +20,12 @@ Software Engineering student at Sichuan University | Python & Web Development
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-Internship Experience
-
+## Education
+Sichuan University
+B.Sc. Software Engineering
+Expected July 2027
+GPA: Pending
+## Internship Experience
 Shangcheng Data / 上程数据
 March 10–29, 2026
 Frontend Development / Team Collaboration
