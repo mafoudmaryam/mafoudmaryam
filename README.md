@@ -24,7 +24,6 @@ Software Engineering student at Sichuan University | Python & Web Development
 Sichuan University
 B.Sc. Software Engineering
 Expected July 2027
-GPA: Pending
 ## Internship Experience
 Shangcheng Data / 上程数据
 March 10–29, 2026
