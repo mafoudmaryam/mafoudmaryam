@@ -1,53 +1,38 @@
 # Hi, I'm Maryam 👋
 
-Software Engineering student at Sichuan University | Python & Web Development
+Software Engineering student at **Sichuan University** (B.Sc., expected July 2027), preparing for a Master's degree.
 
-🎓 Graduating in 2027 with a B.Sc. in Software Engineering
-💻 Interested in software development, web applications, and using data to solve business problems
-🌱 Currently improving my skills in Python, Django, SQL, and data analysis
-🚀 Building projects and preparing for my Master's degree
+I'm interested in **empirical software engineering** and **data-driven tools that help people make decisions**: measuring what actually works, being honest about what the data does not show, and turning it into software people can use.
 
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-## Education
-Sichuan University
-B.Sc. Software Engineering
-Expected July 2027
-## Internship Experience
-Shangcheng Data / 上程数据
-March 10–29, 2026
-Frontend Development / Team Collaboration
-
-## 🚀 Featured Projects
-
-### 📊 [Invoice Tracker](https://github.com/mafoudmaryam/invoice-tracker)
-A Django web app for creating and managing client invoices — add clients, build line-item invoices with automatic tax/discount/deposit calculations, capture e-signatures, attach files, and export everything as a clean PDF.
-`Python` `Django` `SQLite`
-
-### 🔧 More projects in progress
-I'm currently building a data analysis project and a business-focused web app — check back soon!
+📫 [mafoudmaryam1@gmail.com](mailto:mafoudmaryam1@gmail.com)
 
 ---
 
+## 🚀 Featured projects
+
+| Project | What it is | What it shows |
+|---|---|---|
+| 🔬 [**Rough Set Defect Prediction**](https://github.com/mafoudmaryam/rough-set-defect-prediction-kc1) | Team research project: can rough set theory remove software metrics without hurting defect prediction on NASA KC1? | Leakage-safe cross-validation, random-subset controls, exhaustive search over 2²¹ subsets, paired significance tests, 47 tests. |
+| 📈 [**Business Time Machine**](https://github.com/mafoudmaryam/business-time-machine) | A decision simulator for small cafés, restaurants and bakeries: try a change "on paper" and see good, likely and bad outcomes for the next 12 months. | Monte Carlo simulation engine, FastAPI + React app, an AI coach that is never allowed to invent a number, 1,800+ automated tests. |
+| 🧾 [**GetPaid (Invoice Tracker)**](https://github.com/mafoudmaryam/invoice-tracker) | A Django web app for freelancers: clients, line-item invoices with tax, discounts and deposits, e-signatures and PDF export. | Full-stack Django, authentication, PDF generation, phone-friendly UI. |
+| 🎮 [**Game Projects**](https://github.com/mafoudmaryam/GameProjects) | C++ games from my *Practices in Software Development* course, turned into a step-by-step learning guide. | C++, game loops, collision detection, teaching material. |
+
+---
+
+## 🛠️ Tech stack
+
+**Languages:** Python · TypeScript · C++ · SQL · HTML/CSS
+**Web:** Django · FastAPI · React · Vite
+**Data & ML:** pandas · NumPy · scikit-learn · SciPy · Matplotlib
+**Tools:** Git · GitHub · pytest · Vitest · SQLite · VS Code
+
+---
 
 ## 🎓 Education
-**Sichuan University** — B.Sc. Software Engineering
 
-## 📜 Certifications
-- Internship Certificate — *[Big Data Innovation and Entrepreneurship]*
+**Sichuan University**, B.Sc. Software Engineering, expected July 2027
 
----
+## 💼 Experience
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mafoudmaryam1@gmail.com)
+**Shangcheng Data (上程数据)**, Frontend Development Intern, March 2026
+Frontend development and team collaboration. Certificate: *Big Data Innovation and Entrepreneurship*.
